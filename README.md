@@ -1,33 +1,82 @@
-<h1 align="center">Hi 👋, I'm Dibya</h1>
-<!-- <h3 align="center">CSE graduate with sharp attention to detail, specializing in software testing. Expert in analyzing and improving software quality, defect identification, and seamless team collaboration. Dedicated to enhancing user experiences and ensuring software reliability.   </h3> -->
+# Hi there 👋, I'm Dibya Jyoti Dhar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dibya888&label=Profile%20views&color=0e75b6&style=flat" alt="dibya888" /> </p>
+## 💻 Software QA Engineer | SQA Specialist | Java Enthusiast
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dibya888" alt="dibya888" /></a> </p>
+I am a Computer Science and Engineering graduate with a strong focus on Software Quality Assurance (SQA). I specialize in ensuring software quality through structured testing, documentation, and collaboration with development teams.
 
-<!-- - 🔭 I’m currently focusing on **Software Quality Assurance **
+---
 
-- 🌱 I’m currently learning **Software Quality Assurance, The Complete 2023 Software Testing Bootcamp, Test Automation for Beginners [Selenium-Cypress-Playwright]** -->
+## 🧑‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [dibyajyotidhar.github.io](https://dibyajyotidhar.github.io)
+- 🎓 BSc in Computer Science and Engineering  
+- 🧪 Passionate about Software Quality Assurance (SQA)  
+- ☕ Prefer Java for programming  
+- 🤝 Strong team player with good communication and work ethics  
+- 📈 Interested in building a long-term career in QA and Test Automation  
 
-- 📫 How to reach me **dibya.dhar@northsouth.edu, dibya.dhar8@ywctc.onmicrosoft.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/dibya888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dibya888" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dibya888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dibya888" height="30" width="40" /></a>
-<a href="https://discord.gg/PBGEsmn987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PBGEsmn987" height="30" width="40" /></a>
-</p>
+## 💼 Current Role
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+> ⚠️ *Currently working as: Jr. SQA Engineer*  
+> 📍 *Company: Eclectic Limited*  
+> 📅 *From: September 2024*  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dibya888&show_icons=true&locale=en&layout=compact" alt="dibya888" /></p>
+(Replace this once you confirm your current job details)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dibya888&show_icons=true&locale=en" alt="dibya888" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibya888&" alt="dibya888" /></p>
+## 🧪 Internship Experience
 
-[![An image of @dibya888's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dibya888)](https://holopin.io/@dibya888)
+**Software QA Engineer Intern**  
+*Dream71 Bangladesh Ltd*  
+📅 May 2024 – September 2024  
 
+Worked on government automation projects including:
+- Department of Shipping  
+- Local Government Engineering Department  
+- Land Ministry Automation Project  
+
+### Responsibilities:
+- Manual Testing & Functional Testing  
+- User Acceptance Testing (UAT)  
+- Load & Performance Testing  
+- Writing SRS and QA documentation  
+- Bug reporting and tracking  
+- Collaboration with developers and stakeholders  
+
+---
+
+## 🛠️ Skills
+
+- Manual Testing  
+- Functional Testing  
+- Regression Testing  
+- User Acceptance Testing (UAT)  
+- Load Testing  
+- Test Case Design  
+- Bug Reporting  
+- Software Documentation  
+- Basic Java Programming  
+
+---
+
+## 🎯 Interests
+
+- Software Quality Assurance  
+- Test Automation (future goal)  
+- API Testing  
+- System reliability & performance  
+- Continuous learning in software engineering  
+
+---
+
+## 📫 Contact
+
+- Email: dibya.dhar8@gmail.com
+- LinkedIn: https://www.linkedin.com/in/dibya888/
+- GitHub: https://github.com/dibya888
+
+---
+
+⭐ "Quality is never accidental; it is always the result of intelligent effort."
