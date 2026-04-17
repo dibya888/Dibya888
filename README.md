@@ -22,8 +22,6 @@ I am a Computer Science and Engineering graduate with a strong focus on Software
 > 📍 *Company: Eclectic Limited*  
 > 📅 *From: September 2024*  
 
-(Replace this once you confirm your current job details)
-
 ---
 
 ## 🧪 Internship Experience
