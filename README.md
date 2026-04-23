@@ -78,3 +78,11 @@ Worked on government automation projects including:
 ---
 
 ⭐ "Quality is never accidental; it is always the result of intelligent effort."
+
+---
+
+## 🔥 My Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dibya888&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</p>
