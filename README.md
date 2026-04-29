@@ -146,4 +146,6 @@ Detail-oriented SQA Engineer with hands-on experience in testing web and mobile 
 
 ---
 
-⭐ *"Quality is never accidental; it is always the result of intelligent effort."*
+<p align="center">
+  ⭐ Quality is never accidental; it is always the result of intelligent effort.
+</p>
