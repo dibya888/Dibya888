@@ -1,83 +1,140 @@
 # Hi there 👋, I'm Dibya Jyoti Dhar
 
-## 💻 Software QA Engineer | SQA Specialist | Java Enthusiast
+## 💻 Software Quality Assurance Engineer | SQA Specialist | Automation Enthusiast
 
-I am a Computer Science and Engineering graduate with a strong focus on Software Quality Assurance (SQA). I specialize in ensuring software quality through structured testing, documentation, and collaboration with development teams.
+Detail-oriented SQA Engineer with hands-on experience in testing web and mobile applications. Skilled in designing test strategies, identifying defects, and collaborating with cross-functional teams to deliver reliable and high-quality software. Passionate about improving user experience and transitioning into test automation.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 BSc in Computer Science and Engineering  
-- 🧪 Passionate about Software Quality Assurance (SQA)  
-- ☕ Prefer Java for programming  
-- 🤝 Strong team player with good communication and work ethics  
-- 📈 Interested in building a long-term career in QA and Test Automation  
+- 🎓 BSc in Computer Science & Engineering (North South University)  
+- 🧪 Strong background in Software Testing & QA processes  
+- ☕ Prefer Java for automation  
+- 🛠️ Experience with both Manual & Automation Testing  
+- 🤝 Team player with strong communication & collaboration skills  
+- 📈 Goal: Become a skilled Automation Test Engineer  
 
 ---
 
-## 💼 Current Role
+## 💼 Work Experience
 
-> ⚠️ *Currently working as: Jr. SQA Engineer*  
-> 📍 *Company: Eclectic Limited*  
-> 📅 *From: September 2024*  
+### **Jr. SQA Engineer**  
+**Eclectic Ltd.**  
+📅 September 2024 – February 2026  
+
+- Executed manual testing and developed test plans  
+- Identified, reported, and tracked defects  
+- Collaborated with developers for bug resolution  
+
+**Project:**  
+- Rural Bridge Information Management System (LGED)
 
 ---
 
-## 🧪 Internship Experience
+### **Jr. SQA Engineer**  
+**Dream71 Bangladesh Ltd.**  
+📅 April 2024 – September 2024  
 
-**Software QA Engineer Intern**  
-*Dream71 Bangladesh Ltd*  
-📅 May 2024 – September 2024  
+- Designed and executed test cases  
+- Performed Manual, Load, and UAT testing  
+- Maintained QA documentation and reports  
 
-Worked on government automation projects including:
-- Department of Shipping  
-- Local Government Engineering Department  
+**Projects:**  
+- Local Government Engineering Department (LGED)  
+- Department of Shipping (DoS)  
+
+---
+
+### **SQA Intern**  
+**Dream71 Bangladesh Ltd.**  
+📅 January 2024 – March 2024  
+
+- Prepared SRS documentation  
+- Conducted Functional & UAT testing  
+- Assisted in QA reporting  
+
+**Project:**  
 - Land Ministry Automation Project  
 
-### Responsibilities:
-- Manual Testing & Functional Testing  
-- User Acceptance Testing (UAT)  
-- Load & Performance Testing  
-- Writing SRS and QA documentation  
-- Bug reporting and tracking  
-- Collaboration with developers and stakeholders  
+---
+
+### **IT Support Specialist**  
+**George Design & Construction**  
+📅 February 2021 – June 2023  
+
+- Provided technical support & system maintenance  
+- Managed networks and user systems  
+- Handled hardware troubleshooting  
 
 ---
 
 ## 🛠️ Skills
 
+### 🧪 Testing Skills
 - Manual Testing  
 - Functional Testing  
 - Regression Testing  
 - User Acceptance Testing (UAT)  
-- Load Testing  
-- Test Case Design  
-- Bug Reporting  
-- Software Documentation  
-- Basic Java Programming  
+- Performance Testing (JMeter)  
+- Test Case Design & Execution  
+- Bug Reporting & Tracking  
+
+### ⚙️ Tools & Technologies
+- **Automation:** Selenium, Katalon Studio  
+- **API Testing:** Postman  
+- **Performance Testing:** JMeter  
+- **Project Tools:** Jira, Zephyr Scale, ClickUp  
+- **Version Control:** Git, GitHub  
+
+### 💻 Programming & Tech
+- Java, C, JavaScript, C#  
+- HTML, CSS, Bootstrap, PHP  
+- MySQL  
+
+### 📚 Concepts
+- SDLC & STLC  
+- Test Planning & Documentation  
+
+---
+
+## 🚀 QA Portfolio Projects
+
+- 🔹 Test Case Writing (Manual)  
+- 🔹 Object-Based Test Cases  
+- 🔹 API Testing (Postman)  
+- 🔹 Load Testing (JMeter)  
+- 🔹 Web Automation (Selenium)  
+
+👉 Check all projects here:  
+🔗 https://github.com/dibya888  
 
 ---
 
 ## 🎯 Interests
 
-- Software Quality Assurance  
-- Test Automation (future goal)  
-- API Testing  
-- System reliability & performance  
-- Continuous learning in software engineering  
+- Test Automation (Selenium, Cypress, Playwright - learning phase)  
+- API & Performance Testing  
+- Software Reliability  
+- Continuous Learning in QA  
 
 ---
 
-## 📫 Contact
+## 📜 Certifications & Courses
 
-- Email: dibya.dhar8@gmail.com
-- LinkedIn: https://www.linkedin.com/in/dibya888/
-- GitHub: https://github.com/dibya888
+- Software Testing Bootcamp (Udemy)  
+- Agile Crash Course (Udemy)  
+- Manual Testing for Beginners  
+- Test Automation (Selenium, Cypress, Playwright)  
 
 ---
 
-⭐ "Quality is never accidental; it is always the result of intelligent effort."
+## 🌐 Connect With Me
+
+- 📧 Email: dibya.dhar8@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/dibya888/  
+- 💻 GitHub: https://github.com/dibya888  
+- 🌍 Portfolio: https://dibyajyotidhar.github.io  
 
 ---
 
@@ -86,3 +143,7 @@ Worked on government automation projects including:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dibya888&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
+
+---
+
+⭐ *"Quality is never accidental; it is always the result of intelligent effort."*
