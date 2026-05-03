@@ -143,6 +143,9 @@ Detail-oriented SQA Engineer with hands-on experience in testing web and mobile 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dibya888&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dibya888&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph">
+</p>
 
 ---
 
