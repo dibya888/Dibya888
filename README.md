@@ -81,7 +81,7 @@ Detail-oriented SQA Engineer with hands-on experience in testing web and mobile 
 - Bug Reporting & Tracking  
 
 ### ⚙️ Tools & Technologies
-- **Automation:** Selenium, Katalon Studio  
+- **Automation:** Selenium, Katalon Studio, Cypress  
 - **API Testing:** Postman  
 - **Performance Testing:** JMeter  
 - **Project Tools:** Jira, Zephyr Scale, ClickUp  
