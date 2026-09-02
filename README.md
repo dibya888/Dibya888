@@ -134,7 +134,7 @@ Detail-oriented SQA Engineer with hands-on experience in testing web and mobile 
 - 📧 Email: dibya.dhar8@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/dibya888/  
 - 💻 GitHub: https://github.com/dibya888  
-- 🌍 Portfolio: https://dibyajyotidhar.github.io  
+- 🌍 Portfolio: https://www.dibya.tech  
 
 ---
 
